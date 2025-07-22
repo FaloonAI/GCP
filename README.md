@@ -1,2 +1,1 @@
-Программа для генерации и проверки на утечки пароля.
-
+Program for generating and checking for password leaks.
